@@ -1,0 +1,265 @@
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\ApplicationInsights.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\csc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\vbc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Api.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Business.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Web.Http.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Business.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Web.Http.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\ApplicationInsights.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\csc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\vbc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Api.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Business.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Web.Http.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Business.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Web.Http.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula8 - Corrigido\Netcoders.WebApp\src\Api\bin\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\ApplicationInsights.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\csc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\vbc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Api.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Business.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Web.Http.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Business.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Web.Http.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\bin\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\ApplicationInsights.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\csc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\vbc.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Api.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Api.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Business.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Web.Http.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Business.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Web.Http.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\bin\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\ApplicationInsights.config
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\csc.exe
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\vbc.exe
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Api.dll.config
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Api.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Api.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Business.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Model.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Web.Http.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Repository.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\DataAccess.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Business.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Model.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.Web.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Newtonsoft.Json.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Web.Http.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\Repository.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\DataAccess.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\bin\DataAccess.dll.config
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\obj\Debug\Api.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Api\obj\Debug\Api.pdb

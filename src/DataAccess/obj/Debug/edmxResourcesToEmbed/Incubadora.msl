@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INCUBADORAModelStoreContainer" CdmEntityContainer="INCUBADORAEntities">
+    <EntitySetMapping Name="TB_CONTATO">
+      <EntityTypeMapping TypeName="INCUBADORAModel.TB_CONTATO">
+        <MappingFragment StoreEntitySet="TB_CONTATO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NM_CONTATO" ColumnName="NM_CONTATO" />
+          <ScalarProperty Name="DS_TELEFONE" ColumnName="DS_TELEFONE" />
+          <ScalarProperty Name="DS_EMAIL" ColumnName="DS_EMAIL" />
+          <ScalarProperty Name="DS_NASCIMENTO" ColumnName="DS_NASCIMENTO" />
+          <ScalarProperty Name="ID_SEXO" ColumnName="ID_SEXO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TB_SEXO">
+      <EntityTypeMapping TypeName="INCUBADORAModel.TB_SEXO">
+        <MappingFragment StoreEntitySet="TB_SEXO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DS_SEXO" ColumnName="DS_SEXO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

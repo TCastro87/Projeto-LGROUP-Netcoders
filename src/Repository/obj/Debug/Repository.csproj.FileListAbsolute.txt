@@ -1,0 +1,75 @@
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula6\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+D:\Dropbox\A3 - Documentos\CARREIRA\04TREINAMENTOS - [Prensencial - EAD] (Certificados)\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\TREINAMENTOS - [Prensencial - EAD] (Certificados) - code\PRESENCIAL\LGROUP - NET 4.5.1 INCUBADORA\IncubadoraSegQua\aula10\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\Repository.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\Repository.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\Model.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\DataAccess.dll.config
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\bin\Debug\Model.pdb
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\obj\Debug\Repository.dll
+C:\Users\Tiago\Desktop\Netcoders.WebApp\src\Repository\obj\Debug\Repository.pdb

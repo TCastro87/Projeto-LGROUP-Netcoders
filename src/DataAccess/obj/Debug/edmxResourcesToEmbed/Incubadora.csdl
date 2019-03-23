@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INCUBADORAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TB_CONTATO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NM_CONTATO" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DS_TELEFONE" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DS_EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DS_NASCIMENTO" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ID_SEXO" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TB_SEXO" Relationship="Self.FK_TB_CONTATO_TB_SEXO" FromRole="TB_CONTATO" ToRole="TB_SEXO" />
+  </EntityType>
+  <EntityType Name="TB_SEXO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DS_SEXO" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="TB_CONTATO" Relationship="Self.FK_TB_CONTATO_TB_SEXO" FromRole="TB_SEXO" ToRole="TB_CONTATO" />
+  </EntityType>
+  <Association Name="FK_TB_CONTATO_TB_SEXO">
+    <End Role="TB_SEXO" Type="Self.TB_SEXO" Multiplicity="1" />
+    <End Role="TB_CONTATO" Type="Self.TB_CONTATO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TB_SEXO">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TB_CONTATO">
+        <PropertyRef Name="ID_SEXO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="INCUBADORAEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TB_CONTATO" EntityType="Self.TB_CONTATO" />
+    <EntitySet Name="TB_SEXO" EntityType="Self.TB_SEXO" />
+    <AssociationSet Name="FK_TB_CONTATO_TB_SEXO" Association="Self.FK_TB_CONTATO_TB_SEXO">
+      <End Role="TB_SEXO" EntitySet="TB_SEXO" />
+      <End Role="TB_CONTATO" EntitySet="TB_CONTATO" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INCUBADORAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TB_CONTATO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NM_CONTATO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DS_TELEFONE" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="DS_EMAIL" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DS_NASCIMENTO" Type="date" Nullable="false" />
+    <Property Name="ID_SEXO" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TB_SEXO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DS_SEXO" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_TB_CONTATO_TB_SEXO">
+    <End Role="TB_SEXO" Type="Self.TB_SEXO" Multiplicity="1" />
+    <End Role="TB_CONTATO" Type="Self.TB_CONTATO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TB_SEXO">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TB_CONTATO">
+        <PropertyRef Name="ID_SEXO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="INCUBADORAModelStoreContainer">
+    <EntitySet Name="TB_CONTATO" EntityType="Self.TB_CONTATO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TB_SEXO" EntityType="Self.TB_SEXO" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TB_CONTATO_TB_SEXO" Association="Self.FK_TB_CONTATO_TB_SEXO">
+      <End Role="TB_SEXO" EntitySet="TB_SEXO" />
+      <End Role="TB_CONTATO" EntitySet="TB_CONTATO" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

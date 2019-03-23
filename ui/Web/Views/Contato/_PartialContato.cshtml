@@ -1,0 +1,40 @@
+﻿@using Web.Helpers
+@using Model
+@model ContatoModel
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm((string) ViewBag.Rota, "Contato", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+
+    @Html.HiddenFor(x => x.Id)
+
+    @Html.LabelFor(x => x.Nome, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Nome, new { @class = "form-control", placeholder = "Informe seu nome" })
+    @Html.ValidationMessageFor(x => x.Nome, null, new { @class = " help-block text-danger" })
+
+
+    @Html.LabelFor(x => x.Telefone, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Telefone, new { @class = "form-control celular", placeholder = "Informe seu telefone" })
+    @Html.ValidationMessageFor(x => x.Telefone, null, new { @class = " help-block text-danger" })
+
+
+    @Html.LabelFor(x => x.Email, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Email, new { @class = "form-control", placeholder = "Informe seu email" })
+    @Html.ValidationMessageFor(x => x.Email, null, new { @class = " help-block text-danger" })
+
+
+    @Html.LabelFor(x => x.DataNascimento, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.DataNascimento, new { @class = "form-control calendario", placeholder = "__/__/____" })
+    @Html.ValidationMessageFor(x => x.DataNascimento, null, new { @class = " help-block text-danger" })
+
+
+    @Html.LabelFor(x => x.Sexo, new { @class = "control-label" })
+    @Html.DropDownListFor(x => x.Sexo.Id, ViewBag.Sexos as SelectList, "Selecione...", new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Sexo.Id, null, new { @class = " help-block text-danger" })
+
+
+    @Html.Button("submit", "enviar", "enviar", "Enviar")
+}
+
+
